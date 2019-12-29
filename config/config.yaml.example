@@ -1,0 +1,7 @@
+smtp:
+  host: x.x.x.x
+  username: username
+  password: password
+  port: 587
+  encryption: tls
+  mailto: user1@163.com,user2@163.com

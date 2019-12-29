@@ -1,0 +1,4 @@
+.idea
+sync.sh
+config/config.yaml
+cmd/receivers/receivers
